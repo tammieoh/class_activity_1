@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ClassActivity1</string>
+    <string name="title">My Ice Cream Store</string>
+    <string name="search_text">Search by name</string>
+    <string name="search_button">Search</string>
+    <string name="from_editText">from</string>
+    <string name="to_editText">to</string>
+    <string name="to_textView">to</string>
+    <string name="price_range">Price Range</string>
+    <string name="contains_dairy">Contains Dairy?</string>
+    <string name="allergy_info">Allergy Information?</string>
+    <string name="eggs">Eggs</string>
+    <string name="peanuts">Peanuts</string>
+    <string name="wheat">Wheat</string>
+    <string name="soy">Soy</string>
+</resources>
